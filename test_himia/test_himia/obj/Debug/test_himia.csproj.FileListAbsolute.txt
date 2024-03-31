@@ -1,0 +1,10 @@
+D:\projects\test_himia\test_himia\obj\Debug\test_himia.csproj.AssemblyReference.cache
+D:\projects\test_himia\test_himia\obj\Debug\test_himia.Properties.Resources.resources
+D:\projects\test_himia\test_himia\obj\Debug\test_himia.start_window.resources
+D:\projects\test_himia\test_himia\obj\Debug\test_himia.csproj.GenerateResource.cache
+D:\projects\test_himia\test_himia\obj\Debug\test_himia.csproj.CoreCompileInputs.cache
+D:\projects\test_himia\test_himia\bin\Debug\test_himia.exe.config
+D:\projects\test_himia\test_himia\bin\Debug\test_himia.exe
+D:\projects\test_himia\test_himia\bin\Debug\test_himia.pdb
+D:\projects\test_himia\test_himia\obj\Debug\test_himia.exe
+D:\projects\test_himia\test_himia\obj\Debug\test_himia.pdb
